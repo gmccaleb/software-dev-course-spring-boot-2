@@ -1,3 +1,10 @@
+// Tasks
+// 1. Generate url endpoints.
+// 2. Create a model class for representing a music album.
+// 3. Create a model class for representing a movie.
+
+
+
 package com.example.mycollections.controllers;
 
 import com.example.mycollections.models.Book;
